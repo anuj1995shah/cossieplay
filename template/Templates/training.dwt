@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="Banner">
+  <h1>Training zone</h1>
+</div>
+<div id="Nav_Bar">
+  <h2><a href="file:///C|/Users/DELL/Desktop/Untitled-5.html"><img src="file:///C|/Users/DELL/Desktop/button_home.png" width="126" height="40" alt="Home" /></a> <a href="file:///C|/Users/DELL/Desktop/contacts.html"><img src="file:///C|/Users/DELL/Desktop/button_contacts.png" width="126" height="40" alt="Contacts" /></a> <a href="file:///C|/Users/DELL/Desktop/Announcements.html"><img src="file:///C|/Users/DELL/Desktop/button_Announce.png" width="204" height="40" alt="Announcements" /> </a><a href="file:///C|/Users/DELL/Desktop/Links.html"><img src="file:///C|/Users/DELL/Desktop/button_Links.png" width="126" height="40" alt="Links" /></a></h2>
+</div>
+
+<div id="Main_content">
+  <p>Main_content</p>
+</div>
+
+<div id="Footer"><p>THIS WEBSITE IS MAINTAINED AND OWNED BY ANUJ.</p></div>
+</body>
+
+
+</html>

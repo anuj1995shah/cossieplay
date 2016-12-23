@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	text-align: center;
+	color: #2B1CAB;
+}
+.header
+{text-align: center;background-color:#EC1417;}
+.body
+{text-align: center; background-color: red;}
+.links
+{text-align:left;background-color: #280BE4;font-size: 20px;}
+body
+{background-color: antiquewhite;}
+form{
+table-layout: auto;
+}
+a {
+	font-size: xx-large;
+}
+

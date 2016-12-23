@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.header
+{text-align: center;background-color:#EC1417;}
+.body
+{background-color: blue;}
+.links
+{text-align:left;background-color: #BB2023;}
+body
+{background-color: bisque;}
